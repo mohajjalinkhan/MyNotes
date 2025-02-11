@@ -6,11 +6,11 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ## Screenshot
 
-<img src="https://github.com/user-attachments/assets/5a0ff6c5-5669-4dcd-8a31-1dccde480281" alt="drawing" width="150"/>  <img src="https://github.com/user-attachments/assets/a21c1477-be21-43d6-90b0-0412b638d9cb" alt="drawing" width="150"/>
+<img src="https://github.com/user-attachments/assets/5a0ff6c5-5669-4dcd-8a31-1dccde480281" alt="drawing" width="200"/>  <img src="https://github.com/user-attachments/assets/a21c1477-be21-43d6-90b0-0412b638d9cb" alt="drawing" width="200"/>
 
-<img src="https://github.com/user-attachments/assets/1c1dc5cb-6a83-49cb-8675-9ca24520448e" alt="drawing" width="150"/> <img src="https://github.com/user-attachments/assets/22e02182-5643-47e0-b09f-df4ca76bbfc6" alt="drawing" width="150"/>
+<img src="https://github.com/user-attachments/assets/1c1dc5cb-6a83-49cb-8675-9ca24520448e" alt="drawing" width="200"/> <img src="https://github.com/user-attachments/assets/22e02182-5643-47e0-b09f-df4ca76bbfc6" alt="drawing" width="200"/>
 
-<img src="https://github.com/user-attachments/assets/6fe46fac-725b-4016-a404-e164bf7317b5" alt="drawing" width="150"/> <img src="https://github.com/user-attachments/assets/5e7dde48-34dc-47f3-8757-b2d3b245f59c" alt="drawing" width="150"/>
+<img src="https://github.com/user-attachments/assets/6fe46fac-725b-4016-a404-e164bf7317b5" alt="drawing" width="200"/> <img src="https://github.com/user-attachments/assets/5e7dde48-34dc-47f3-8757-b2d3b245f59c" alt="drawing" width="200"/>
 
 ## Step 1: Start Metro
 
