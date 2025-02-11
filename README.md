@@ -12,6 +12,10 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 <img src="https://github.com/user-attachments/assets/6fe46fac-725b-4016-a404-e164bf7317b5" alt="drawing" width="200"/> <img src="https://github.com/user-attachments/assets/5e7dde48-34dc-47f3-8757-b2d3b245f59c" alt="drawing" width="200"/>
 
+# Essential React Native project requirements
+- https://www.npmjs.com/package/react-native-encrypted-storage
+- https://reactnavigation.org/
+
 ## Step 1: Start Metro
 
 First, you will need to run **Metro**, the JavaScript build tool for React Native.
@@ -94,8 +98,5 @@ You've successfully run and modified your React Native App. :partying_face:
 
 If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
 
-# React Native, Requierments
-- https://www.npmjs.com/package/react-native-encrypted-storage
-- https://reactnavigation.org/
 
 # In this React Native project, I have added Icons for both IOS📲 and Android📱. 
