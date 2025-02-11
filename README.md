@@ -16,6 +16,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 - https://www.npmjs.com/package/react-native-encrypted-storage
 - https://reactnavigation.org/
 
+# In this React Native project, I have added Icons for both IOS📲 and Android📱. 
+
 ## Step 1: Start Metro
 
 First, you will need to run **Metro**, the JavaScript build tool for React Native.
