@@ -99,6 +99,3 @@ You've successfully run and modified your React Native App. :partying_face:
 # Troubleshooting
 
 If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-
-# In this React Native project, I have added Icons for both IOS📲 and Android📱. 
